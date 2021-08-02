@@ -1,0 +1,4 @@
+export const FETCH_COUNTRY = "FETCH_COUNTRY";
+export const FETCH_WEATHER = "FETCH_WEATHER";
+export const BACK_TO_COUNTRY = "BACK_TO_COUNTRY";
+export const BACK_TO_HOME = "BACK_TO_HOME";
